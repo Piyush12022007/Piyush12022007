@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piyush Dhadse
 - 👀 I’m interested in coding , web devlopment
-- 🌱 I’m currently learning AI & DS
+- 🌱 I’m pursuing B.Tech. in CSE(AI & DS)
 - 💞️ I’m looking to collaborate on web designing projects
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
