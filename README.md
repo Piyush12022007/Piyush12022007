@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Piyush Dhadse
 - 👀 I’m interested in coding , web devlopment
 - 🌱 I’m pursuing B.Tech. in CSE(AI & DS)
-- Languages:- HTML,CSS,C
+- Languages:- HTML,CSS,C,JavaScript
 - 💞️ I’m looking to collaborate on web designing projects
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
